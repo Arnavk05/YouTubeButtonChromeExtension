@@ -1,0 +1,10 @@
+#checkPage{
+    padding: 1em;
+    background-color: green;
+    text-decoration: none;
+    color: white;
+    border-radius:7px;
+}
+#checkPage.hover{
+		border:2px solid orange;
+}
